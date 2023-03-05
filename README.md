@@ -1,5 +1,5 @@
 ## 🌐Socials
-[![Discord]](htttps://discord.gg/821692172997886022)
+[![Discord](htttps://discord.gg/821692172997886022)]
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=CaTroi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
