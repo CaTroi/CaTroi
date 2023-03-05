@@ -1,6 +1,6 @@
 
 ## 🌐Socials
-[![Discord](htttps://discord.gg/ItwasDarkest#9684) 
+![Discord](htttps://discord.gg/ItwasDarkest#9684) 
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=CaTroi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
